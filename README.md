@@ -42,7 +42,8 @@ Ejecutarlo dentro del directorio de /java del ejercicio
 
 [java]: https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white
 [js]: https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E
-[1]: https://github.com/axelolea/pruebas-tecnicas-jr
+
+[1]: https://github.com/axelolea/blob/main/la-moneda/info.md
 [2]: https://github.com/axelolea/pruebas-tecnicas-jr
 [3]: https://github.com/axelolea/pruebas-tecnicas-jr
 [4]: https://github.com/axelolea/pruebas-tecnicas-jr
