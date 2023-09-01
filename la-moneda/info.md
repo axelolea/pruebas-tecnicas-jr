@@ -35,7 +35,7 @@ public class Solution {
 ```js
 function solution (arr) {
     // Insert your code here
-    return;
+    return 0;
 }
 ```
 
