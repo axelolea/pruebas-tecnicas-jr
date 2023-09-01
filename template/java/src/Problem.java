@@ -1,5 +1,8 @@
+package src;
+
 class Problem {
-    public static String solution () {
+    public String solution () {
         return null;
     }
+
 }

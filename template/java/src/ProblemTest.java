@@ -1,21 +1,18 @@
-import static org.junit.jupiter.api.Assertions.*;
+package src;
+
 import org.junit.jupiter.api.Test;
+
+import static org.junit.jupiter.api.Assertions.*;
 
 class ProblemTest {
 
     @Test
-    void FirstTest() {
+    void solution() {
 
-        assertNull(Problem.solution());
+        Problem p = new Problem();
 
-    }
-
-    @Test
-    void SecondTest() {
-
-        assertNull(Problem.solution());
+        assertNull(p.solution());
 
     }
-
 
 }

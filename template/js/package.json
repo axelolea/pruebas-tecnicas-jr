@@ -1,13 +1,13 @@
 {
-  "name": "pruebas-tecnicas",
+  "name": "name-of-problem",
   "version": "1.0.0",
-  "description": "Durante mi búsqueda laboral he tenido la fortuna de tener una variedad de pruebas de codigo bastante buenas.",
-  "main": "index.js",
+  "description": "This is description of the test",
+  "main": "solution.js.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node --test --q solution_test.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "axelolea",
   "license": "ISC",
   "type": "module"
 }

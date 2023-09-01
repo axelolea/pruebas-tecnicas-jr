@@ -2,11 +2,13 @@
 
 Descripcion del ejercio
 
+## Templates
+
 ![Java][java]
 ```java
 public class Solution {
     public int solution (int args) {
-        
+        // Insert your code here
         return 0;
     }
 }
@@ -14,6 +16,7 @@ public class Solution {
 ![JavaScript][js]
 ```js
 function solution (args) {
+    // Insert your code here
     return;
 }
 ```
