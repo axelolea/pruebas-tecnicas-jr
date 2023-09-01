@@ -1,0 +1,14 @@
+{
+  "name": "name-of-problem",
+  "version": "1.0.0",
+  "description": "This is description of the test",
+  "main": "solution.js.js",
+  "scripts": {
+    "test": "node --test --test-reporter=tap solution_test.js",
+    "test-min": "node --test --test-reporter=dot solution_test.js"
+  },
+  "keywords": [],
+  "author": "axelolea",
+  "license": "ISC",
+  "type": "module"
+}
