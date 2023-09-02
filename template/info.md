@@ -1,6 +1,6 @@
 # Nombre del ejercicio
 
-Descripcion del ejercio
+Descripción del ejercicio
 
 ## Templates
 
