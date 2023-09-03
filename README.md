@@ -78,6 +78,6 @@ Ejecutarlo dentro del directorio de ```/java``` del ejercicio
 
 [1]: https://github.com/axelolea/pruebas-tecnicas-jr/blob/main/la-moneda/info.md
 [2]: https://github.com/axelolea/pruebas-tecnicas-jr/blob/main/cuentas/info.md
-[3]: https://github.com/axelolea/pruebas-tecnicas-jr/blob/main/suma-y-producto/info.md
+[3]: https://github.com/axelolea/pruebas-tecnicas-jr/blob/main/suma-producto/info.md
 [4]: https://github.com/axelolea/pruebas-tecnicas-jr/blob/main/lista-afiliados/info.md
 [5]: https://github.com/axelolea/pruebas-tecnicas-jr/blob/main/inventario/info.md
