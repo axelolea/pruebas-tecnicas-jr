@@ -1,4 +1,4 @@
-# Suma y Productorio
+# Suma y Producto
 
 En este ejercicio deberás de realizar la siguiente evaluación a partir de un array de números que recibes por parámetro.
 
